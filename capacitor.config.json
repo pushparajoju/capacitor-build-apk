@@ -1,0 +1,7 @@
+{
+  "appId": "com.blr.app",
+  "appName": "mycap",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
